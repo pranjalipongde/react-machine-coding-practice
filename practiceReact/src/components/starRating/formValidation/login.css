@@ -1,0 +1,27 @@
+* {
+  background: black;
+}
+
+.container {
+  color: white;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.container input {
+  padding: 15px;
+  margin: 10px;
+  border: none;
+  background: white;
+  width: 100%;
+}
+
+.container button {
+  background: rgb(90, 90, 248);
+  border: none;
+  padding: 10px 20px;
+  margin-top: 10px;
+  color: white;
+}
