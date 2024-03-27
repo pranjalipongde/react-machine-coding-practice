@@ -1,0 +1,43 @@
+.App {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+.questions {
+  margin: 20px auto;
+  width: 36vw;
+  border: 1px solid lightgoldenrodyellow;
+  background-color: antiquewhite;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.questions h2 {
+  margin-bottom: 10px;
+}
+
+.options {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 12px;
+  list-style: none;
+  padding: 0;
+}
+
+.options > li > button {
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  background-color: rgb(199, 155, 240);
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: blueviolet;
+  color: white;
+}

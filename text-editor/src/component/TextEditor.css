@@ -1,0 +1,45 @@
+/* TextEditor.css */
+
+html,
+body {
+  height: 100%;
+  padding: 10px;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: lightslategrey;
+  color: white;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 20px;
+}
+
+.editor {
+  /* border: 1px solid black; */
+  width: 550px;
+  height: 350px;
+  padding: 20px;
+  margin: 10px;
+  color: black;
+  background-color: lightgray;
+}
+
+.save-btn {
+  top: 50px;
+  right: 0px;
+}
+
+.save-btn button {
+  /* float: right; */
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+  font-size: 1rem;
+  cursor: pointer;
+}

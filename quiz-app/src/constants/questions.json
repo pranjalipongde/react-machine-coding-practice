@@ -1,0 +1,101 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answerOptions": [
+      { "answerText": "New York", "isCorrect": false },
+      { "answerText": "London", "isCorrect": false },
+      { "answerText": "Paris", "isCorrect": true },
+      { "answerText": "Dublin", "isCorrect": false }
+    ]
+  },
+
+  {
+    "question": "Who is CEO of Tesla?",
+    "answerOptions": [
+      { "answerText": "Jeff Bezos", "isCorrect": false },
+      { "answerText": "Elon Musk", "isCorrect": true },
+      { "answerText": "Bill Gates", "isCorrect": false },
+      { "answerText": "Tony Stark", "isCorrect": false }
+    ]
+  },
+
+  {
+    "question": "The iPhone was created by which company?",
+    "answerOptions": [
+      { "answerText": "Apple", "isCorrect": true },
+      { "answerText": "Intel", "isCorrect": false },
+      { "answerText": "Amazon", "isCorrect": false },
+      { "answerText": "Microsoft", "isCorrect": false }
+    ]
+  },
+
+  {
+    "question": "How many Harry Potter books are there?",
+    "answerOptions": [
+      { "answerText": "1", "isCorrect": false },
+      { "answerText": "4", "isCorrect": false },
+      { "answerText": "6", "isCorrect": false },
+      { "answerText": "7", "isCorrect": true }
+    ]
+  },
+
+  {
+    "question": "What is the tallest mountain in the world?",
+    "answerOptions": [
+      { "answerText": "Mount Everest", "isCorrect": true },
+      { "answerText": "K2", "isCorrect": false },
+      { "answerText": "Kangchenjunga", "isCorrect": false },
+      { "answerText": "Lhotse", "isCorrect": true }
+    ]
+  },
+
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "answerOptions": [
+      { "answerText": "Venus", "isCorrect": false },
+      { "answerText": "Mars", "isCorrect": true },
+      { "answerText": "Jupiter", "isCorrect": false },
+      { "answerText": "Saturn", "isCorrect": false }
+    ]
+  },
+
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answerOptions": [
+      { "answerText": "Leonardo da Vinci", "isCorrect": true },
+      { "answerText": "Pablo Picasso", "isCorrect": false },
+      { "answerText": "Vincent van Gogh", "isCorrect": false },
+      { "answerText": "Michelangelo", "isCorrect": false }
+    ]
+  },
+
+  {
+    "question": "Which country is home to the kangaroo?",
+    "answerOptions": [
+      { "answerText": "Australia", "isCorrect": true },
+      { "answerText": "Brazil", "isCorrect": false },
+      { "answerText": "India", "isCorrect": false },
+      { "answerText": "South Africa", "isCorrect": false }
+    ]
+  },
+
+  {
+    "question": "What is the capital city of France?",
+    "answerOptions": [
+      { "answerText": "Madrid", "isCorrect": false },
+      { "answerText": "Rome", "isCorrect": false },
+      { "answerText": "Berlin", "isCorrect": false },
+      { "answerText": "Paris", "isCorrect": true }
+    ]
+  },
+
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "answerOptions": [
+      { "answerText": "Harper Lee", "isCorrect": true },
+      { "answerText": "F. Scott Fitzgerald", "isCorrect": false },
+      { "answerText": "Ernest Hemingway", "isCorrect": false },
+      { "answerText": "Mark Twain", "isCorrect": false }
+    ]
+  }
+]
